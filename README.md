@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Palhano</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Splittyn](https://github.com/Palhanor/Splittyn)
+- 🔭 I’m currently working on [Notely](https://github.com/Palhanor/Notely)
 
 - 🌱 I’m currently learning **React Native and NodeJS**
 
