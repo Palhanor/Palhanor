@@ -1,29 +1,24 @@
 <h1 align="center">Lucas Palhano</h1>
 
 ### Sobre mim
-Desde muito cedo sempre me interessei por tecnologia e pelo possibilidade de criar coisas novas que venham a impactar minha comunidade e o mundo. Ao longo de minha jornada, tive a oportunidade de cruzar o caminho da programação por diversas vezes, seja quando fiz minhas primeiras páginas em HTML puro nos idos de 2010 por pura curiosidade, ou quando cursei Eletrônica no IFPB como ensino médio e técnico, com as cansativas aulas de C e Python.
-
-Contudo, ao longo dos percalços desta vida, acabei indo cursar Relações Internacionais na Universidade Federal da Paraíba. Foi uma experiência engrandecedora, onde pude atuar na Líderi, Empresa Júnior de RI, e ter contato com diversos conteúdos tais como economia, política, e história.
-
-Ao terminar o curso, em meio à felicidade da graduação, veio então aquela sensação de que faltava algo, uma percepção de que algo havia se perdido ao longo da longa jornada. Foi assim que, buscando me reconectar com minhas raízes, procurando aquilo que fazia meus olhos brilharem, voltei a dar cada vez mais atenção à programação, mas desta vez, levando-a a sério, e com a ânsia de recuperar todo o tempo "perdido".
-
-Agora, encontro-me a pouco mais de um ano de dedicação total ao estudo de programação, tendo passado pela Alura e atualmente cursando Análise e Desenvolvimento de Software na Universidade Cruzeiro do Sul. Desde então,tem sido extremamente gratificante ver a evolução contínua da minha habilidade de traduzir ideias abstratam em algoritmos lógicos, e estes algoritmos em códigos propriamente ditos. Agora sinto que me encontrei, e quero cada vez mais me encontrar imerso neste admirável mundo da programação.
+Sou apaixonado por tecnologia, e acredito que ela tem o poder de mudar o mundo para melhor. Meu objetivo é ser parte dessa transformação, trazendo soluções inovadoras e criativas para os desafios que a sociedade enfrenta. Me considero um solucionador de problemas, sempre buscando novos desafios e aprendendo coisas novas a cada dia.
 
 ---
 
-### Projetos
-#### [Splittyn](https://github.com/Palhanor/Splittyn)
-Sistema simples de divisão de despezas desenvolvido a partir de uma abordagem mobile first, e construído através da biblioteca React com TypeScript, fazendo uso do Recoil para a gestão dos estados globais.
-#### [QR Key](https://github.com/Palhanor/QR-Key)
-Aplicativo móvel com foco na criação e leitura de QR Codes privados, acessíveis mediante uma senhas previamente configurada pelo seu criador. Criado através do React Native com Expo, e usando TypeScript como linguagem principal.
+### Projetos principais
+#### [Searchin](https://searchin-beta.vercel.app/)
+Uma start page voltada para buscas avançadas, realizadas diretamente nos principais mecanismos de búsca do mercado. Com suporte a mais de 100 websites, e construida com React e TypeScript.
+#### [Portfólio](https://lucaspalhano.com.br/)
+Website pessoal elaborado apenas com HTML5, SCSS e JavaScipt puros. A ideia foi me desafiar a fazer um sistema bonito sem a necessidade de frameworks. Contudo, devido a necessidade de escalar o projeto, pretendo migrar para algum framework, provavelmente NextJS.
 #### [Notely](https://github.com/Palhanor/Notely)
 Aplicativo minimalista para criação e gestão de notas baseadas em markdown. Tem o intúito de ser extremamente simples de usar, e é construído através do React Native com Expo, tendo o TypeScript como sua linguagem principal.
-#### [Avoid Black Holes](https://github.com/Palhanor/Avoid-Black-Holes)
-Jogo em Vanilla JavaScript...
-#### [DynOS](https://github.com/Palhanor/DynOS)
-Sistema desenvolvido em Python para...
-#### Gloopex
-Mecanismo de busca...
+#### [QR Key](https://github.com/Palhanor/QR-Key)
+Aplicativo móvel com foco na criação e leitura de QR Codes privados, acessíveis mediante uma senhas previamente configurada pelo seu criador. Criado através do React Native com Expo, e usando TypeScript como linguagem principal.
+#### [Splittyn](https://palhanor.github.io/Splittyn/)
+Sistema simples de divisão de despezas desenvolvido a partir de uma abordagem mobile first, e construído através da biblioteca React com TypeScript, fazendo uso do Recoil para a gestão dos estados globais.
+#### [Pokedex](https://palhanor.github.io/Pokedex/)
+Apesar de ser um projeto já bastante batido no mundo dos programadores Front-end, não deixa de ser uma boa pedida. Foram usados ReactJS e TypeScript, assim como o Axios para lidar com a PokeAPI.
+
 
 ---
 
@@ -37,6 +32,9 @@ Mecanismo de busca...
     </a>
     <a href="mailto:lucaspalhanof@gmail.com" >
         <img alt="Logo do Gmail" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px">
+    </a>
+    <a href="https://medium.com/@lucaspalhanof" >
+        <img alt="Logo do Gmail" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="50px">
     </a>
 </p>
 
