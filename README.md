@@ -1,11 +1,35 @@
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk#github-stats -->
+
 <h1 align="center">Lucas Palhano</h1>
 
-### Sobre mim
+### Sobre
 Sou apaixonado por tecnologia, e acredito que ela tem o poder de mudar o mundo para melhor. Meu objetivo é ser parte dessa transformação, trazendo soluções inovadoras e criativas para os desafios que a sociedade enfrenta. Me considero um solucionador de problemas, sempre buscando novos desafios e aprendendo coisas novas a cada dia.
 
 ---
 
-### Projetos principais
+### Competências
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML shield">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS shield">
+  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React shield"/>
+  <img src="https://img.shields.io/badge/SQLite3-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/styled components-3C3C3C?style=for-the-badge&logo=styled-components&logoColor=DB7093">
+  <img src="https://img.shields.io/badge/axios-ffffff?style=for-the-badge&logo=axios&logoColor=5A29E4">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="SQLite shield" />   
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="SQLite shield" />
+</p>
+
+---
+
+### Principais Projetos
 #### [Searchin](https://searchin-beta.vercel.app/)
 Uma start page voltada para buscas avançadas, realizadas diretamente nos principais mecanismos de búsca do mercado. Com suporte a mais de 100 websites, e construida com React e TypeScript.
 #### [Portfólio](https://lucaspalhano.com.br/)
@@ -19,67 +43,6 @@ Sistema simples de divisão de despezas desenvolvido a partir de uma abordagem m
 #### [Pokedex](https://palhanor.github.io/Pokedex/)
 Apesar de ser um projeto já bastante batido no mundo dos programadores Front-end, não deixa de ser uma boa pedida. Foram usados ReactJS e TypeScript, assim como o Axios para lidar com a PokeAPI.
 
-
----
-
-### Contatos
-<p style="display: flex; width: 200px; justify-content: space-between">
-    <a href="https://www.linkedin.com/in/lucaspalhano" >
-        <img alt="Logo do LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px">
-    </a>
-    <a href="https://www.behance.net/lucaspalhano2" >
-        <img alt="Logo do Behance" src="https://cdn-icons-png.flaticon.com/512/3991/3991886.png" width="50px">
-    </a>
-    <a href="mailto:lucaspalhanof@gmail.com" >
-        <img alt="Logo do Gmail" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px">
-    </a>
-    <a href="https://medium.com/@lucaspalhanof" >
-        <img alt="Logo do Gmail" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="50px">
-    </a>
-</p>
-
----
-
-### Competências
-<p style="display: flex; justify-content: space-between; padding: 0 5%">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-    </a>
-</p>
-
 ---
 
 ### Estatísticas
@@ -88,3 +51,15 @@ Apesar de ser um projeto já bastante batido no mundo dos programadores Front-en
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palhanor&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="palhanor" width="45%" />
     <img src="https://github-readme-stats.vercel.app/api?username=palhanor&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="palhanor" width="54%" />
 </p>
+
+---
+
+### Contatos
+<p align="center">
+   <a href="https://www.linkedin.com/in/lucaspalhano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>
+  <a href="https://www.lucaspalhano.com.br/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
+  <a href="https://medium.com/@lucaspalhanof" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Meu portfólio pessoal"></a>
+  <a href="https://www.behance.net/lucaspalhano2" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Meu portfólio pessoal"></a>
+  <a href="mailto:lucaspalhanof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu portfólio pessoal"></a>
+</p>
+
