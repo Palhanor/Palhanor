@@ -1,11 +1,11 @@
 <!-- Elaborar meu Readme.md como se fosse um website, com header, navbar, banner, logo pessoal, body e footer -->
 <!-- Seções: Heder, Navbar, Banner (será que pode vídeo?), Sobre, Stacks, Projetos, Contatos, Estatísticas, Footer -->
-<!-- Usar um mini banner para separar cada seção, tipo como o Lucas fez! -->
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#github-stats -->
 
 <header width="100%">
-  <h3 align="center">Lucas Palhano</h3>
+  <img src="./images/header.png" alt="Imagem do Header" width="100%" />
+  <br /><br />
   <div align="center">
     <nav>
       <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,10 +17,10 @@
   </div>
 </header>
 
-<hr />
+<br />
 
 <main>
-  <img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47703bikt3vxr72xdjftx1hbbon2gmk1etdoyttz9k&ep=v1_gifs_search&rid=giphy.gif" alt="Banner estilo Matrix" width="100%"/>
+  <img src="./images/banner.png" alt="Banner estilo Matrix" width="100%"/>
 </main>
 
 <br /><br />
@@ -29,7 +29,7 @@
   <img src="./images/sobre.png" alt="Banner da seção Sobre" width="100%" />
   <br/><br/>
   <h3>Geral</h3>
-  <p>Eu me chamo <strong>Lucas Palhano</strong>, e sempre fui apaixonado por tecnologia e programação. Desde muito cedo eu já sonhava em empreender elaborando soluções elegantes para problemas do dia-a-dia. Minha missão sempre foi a de colaborar na criação de um futuro mais próspero, me reclinando na tecnologia como um meio de alcançar este objetivo.</p>
+    <p>Eu me chamo <strong>Lucas Palhano</strong>, e sempre fui apaixonado por tecnologia e programação. Desde muito cedo eu já sonhava em empreender elaborando soluções elegantes para problemas do dia-a-dia. Minha missão sempre foi a de colaborar na criação de um futuro mais próspero, me reclinando na tecnologia como um meio de alcançar este objetivo.</p>
   <h3>Hitórico</h3>
     <p>Meu primeiro contato com a programação veio muito cedo, ainda com 12 anos através do HTML e CSS. Mas foi só no ensino médio que eu pude realmente estudar conteúdos mais densos como Python, C e C++, no curso técnico de Eletrônica. Recentemente venho me dedicando ao estudo de tecnologias Fullstack.</p>
   <h3>Objetivo</h3>
@@ -95,28 +95,8 @@
           </sub>
         </a>
       </td>
-      <td align="center">
-        <a href="https://react-hook-form.com/">
-          <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
-          <sub>
-            <strong>
-              <pre>React Hook<br/>Form</pre>
-            </strong>
-          </sub>
-        </a>
-      </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://getbootstrap.com/">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
-          <sub>
-            <strong>
-              <pre>Bootstrap</pre>
-            </strong>
-          </sub>
-        </a>
-      </td>
       <td align="center">
         <a href="https://styled-components.com/">
           <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
@@ -134,8 +114,8 @@
             <strong>
               <pre>Sass</pre>
             </strong>
-        </a>
         </sub>
+        </a>
       </td>
       <td align="center">
         <a href="https://redux.js.org/">
@@ -147,7 +127,7 @@
           </sub>
         </a>
       </td>
-            <td align="center">
+      <td align="center">
         <a href="https://expressjs.com/">
           <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
           <sub>
@@ -174,7 +154,7 @@
           <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
           <sub>
             <strong>
-              <pre>Axios &<br/>FetchAPI</pre>
+              <pre>Axios</pre>
             </strong>
           </sub>
         </a>
@@ -219,6 +199,8 @@
           </sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://ohmyz.sh/">
           <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
@@ -229,8 +211,6 @@
           </sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://code.visualstudio.com/">
           <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
@@ -246,7 +226,7 @@
           <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
           <sub>
             <strong>
-              <pre>Linux &<br>Windows</pre>
+              <pre>Linux</pre>
             </strong>
           </sub>
         </a>
@@ -271,6 +251,8 @@
           </sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.mysql.com">
           <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Linux icon"/><br/>
@@ -291,8 +273,6 @@
           </sub>
         </a>
       </td>
-    </tr>
-    <tr>
       </td>
         <td align="center">
         <a href="https://www.figma.com">
