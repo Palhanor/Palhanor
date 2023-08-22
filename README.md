@@ -1,30 +1,279 @@
+<!-- Elaborar meu Readme.md como se fosse um website, com header, navbar, banner, logo pessoal, body e footer -->
+<!-- Seções: Heder, Navbar, Banner (será que pode vídeo?), Sobre, Stacks, Projetos, Contatos, Estatísticas, Footer -->
+<!-- Usar um mini banner para separar cada seção, tipo como o Lucas fez! -->
+
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#github-stats -->
 
-<p align="center">
-  <img src="https://lucaspalhano.com.br/assets/logo_branca.png" alt="Minha logo pessoal" width="50px" />
-</p>
-
-### Lucas Palhano
+<h1 align="center">Bem vindo!</h1>
 
 Eu me chamo Lucas Palhano e sou apaixonado por programação. Tenho como objetivo contribuir com a construção de um futuro melhor, buscando solucionar problemas através da tecnologia de inovação. Atualmente estudando para me tornar um desenvolvedor Full-stack, apesar de também ter interesse em Mobile e Data Science.
 
 ---
 
-### Competências
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/SQLite3-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />   
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+### Stack
+<table align="center" height="255px">
+  <tr>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
+        <sub>
+          <b>
+            <pre>Next.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
+      <sub>
+        <b>
+          <pre>Tailwind<br/>CSS</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Git &<br/>Github</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="https://react-hook-form.com/">
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
+        <sub>
+          <b>
+            <pre>React Hook<br/>Form</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
+        <sub>
+          <b>
+            <pre>Styled<br/>Components</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://sass-lang.com/">
+        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
+        <sub>
+          <b>
+            <pre>Sass</pre>
+          </b>
+       </a>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://redux.js.org/">
+        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Redux<br/>Toolkit</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
+        <sub>
+          <b>
+            <pre>Express.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactnative.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React<br>Native</pre>
+          </b>
+        </sub>
+     </a>
+    </td>
+    <td align="center">
+      <a href="https://axios-http.com/docs/intro">
+      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
+      <sub>
+        <b>
+          <pre>Axios &<br/>FetchAPI</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
+        <sub>
+          <b>
+            <pre>Node.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ohmyz.sh/">
+        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
+        <sub>
+          <b>
+            <pre>Terminal</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
+        <sub>
+          <b>
+            <pre>VSCode</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ubuntu.com">
+        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Linux &<br>Windows</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org">
+        <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Python</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.cprogramming.com">
+        <img src="https://skillicons.dev/icons?i=c" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>C</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>MySQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://www.postgresql.org">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>PostgreSQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+        </td>
+      <td align="center">
+      <a href="https://www.figma.com">
+        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Figma</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
