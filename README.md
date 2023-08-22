@@ -18,10 +18,9 @@
 </header>
 
 <hr />
-<br /><br />
 
 <main>
-  <p>Adicionar um banner</p>
+  <img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47703bikt3vxr72xdjftx1hbbon2gmk1etdoyttz9k&ep=v1_gifs_search&rid=giphy.gif" alt="Banner estilo Matrix" width="100%"/>
 </main>
 
 <br /><br />
@@ -29,8 +28,14 @@
 <section id="sobre">
   <img src="./images/sobre.png" alt="Banner da seção Sobre" width="100%" />
   <br/><br/>
-  <h1 align="center">Bem vindo!</h1>
-  <p> Eu me chamo Lucas Palhano e sou apaixonado por programação. Tenho como objetivo contribuir com a     construção de um futuro melhor, buscando solucionar problemas através da tecnologia de inovação. Atualmente estudando para me tornar um desenvolvedor Full-stack, apesar de também ter interesse em Mobile e Data Science.</p>
+  <h3>Geral</h3>
+  <p>Eu me chamo <strong>Lucas Palhano</strong>, e sempre fui apaixonado por tecnologia e programação. Desde muito cedo eu já sonhava em empreender elaborando soluções elegantes para problemas do dia-a-dia. Minha missão sempre foi a de colaborar na criação de um futuro mais próspero, me reclinando na tecnologia como um meio de alcançar este objetivo.</p>
+  <h3>Hitórico</h3>
+    <p>Meu primeiro contato com a programação veio muito cedo, ainda com 12 anos através do HTML e CSS. Mas foi só no ensino médio que eu pude realmente estudar conteúdos mais densos como Python, C e C++, no curso técnico de Eletrônica. Recentemente venho me dedicando ao estudo de tecnologias Fullstack.</p>
+  <h3>Objetivo</h3>
+    <p>Tal como dito anteriormente, pretendo contribuir com a construção de um futuro melhor. Desta forma, pretendo aprender e trabalhar com quaisquer tecnologias que me permitam extrair meu máximo potencial. Atualmente, estou emprenhado em desenvolver minhas habilidades de Fullstac, mas sigo com alguma contato em Mobile e DevOps.</p>
+  <h3>Experiência</h3>
+    <p>Já desenvolvi projetos próprios, tanto web Fullstack quanto Mobile. Ainda, também tenho experiência como freelancer e voluntário na organização JDG (Junior Developers Group). Além disso estou trabalhando em parceria com uma equipe de trabalho social para o desenvolvimento de um Marketplace para um bairro de Recife.</p>
 </section>
 
 <br /><br />
@@ -90,8 +95,6 @@
           </sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://react-hook-form.com/">
           <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
@@ -102,6 +105,8 @@
           </sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://getbootstrap.com/">
           <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
@@ -142,9 +147,7 @@
           </sub>
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
+            <td align="center">
         <a href="https://expressjs.com/">
           <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
           <sub>
@@ -164,6 +167,8 @@
           </sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://axios-http.com/docs/intro">
           <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
@@ -194,8 +199,6 @@
           </sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
           <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
@@ -221,11 +224,13 @@
           <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
           <sub>
             <strong>
-              <pre>Terminal</pre>
+              <pre>Shell Script</pre>
             </strong>
           </sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://code.visualstudio.com/">
           <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
@@ -246,8 +251,6 @@
           </sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.python.org">
           <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Linux icon"/><br/>
@@ -288,7 +291,9 @@
           </sub>
         </a>
       </td>
-          </td>
+    </tr>
+    <tr>
+      </td>
         <td align="center">
         <a href="https://www.figma.com">
           <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Linux icon"/><br/>
@@ -367,8 +372,10 @@
   </p>
 </section>
 
-<br /><br /><br />
+<br /><br />
+<hr />
+<br />
 
 <footer width="100%">
-  <img src="./images/footer.png" alt="Imagem do Rodapé" width="100%" />
+  <div width="100%" align="center">&#169; 2023 Lucas Palhano Fonseca - Todos os direitos reservados.</div>
 </footer>
