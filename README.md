@@ -4,37 +4,41 @@
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#github-stats -->
 
-<header>
-  <nav>
-    <ul>
-      <a href="#stack">Stack</a>
-      <a href="#projetos">Projetos</a>
-      <a href="#estatisticas">Estatísticas</a>
+<header width="100%">
+  <h3 align="center">Lucas Palhano</h3>
+  <div align="center">
+    <nav>
+      <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#stack">Stack</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#projetos">Projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#estatisticas">Estatísticas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="#contatos">Contatos</a>
-    </ul>
-  </nav>
+    </nav>
+  </div>
 </header>
 
+<hr />
+<br /><br />
+
 <main>
-  <h1 align="center">Bem vindo!</h1>
-  <p>
-    Eu me chamo Lucas Palhano e sou apaixonado por programação. Tenho como objetivo contribuir com a construção de um futuro melhor, buscando solucionar problemas através da tecnologia de inovação. Atualmente estudando para me tornar um desenvolvedor Full-stack, apesar de também ter interesse em Mobile e Data Science.
-  </p>
+  <p>Adicionar um banner</p>
 </main>
 
 <br /><br />
 
-<!-- <section id="sobre">
+<section id="sobre">
   <img src="./images/sobre.png" alt="Banner da seção Sobre" width="100%" />
   <br/><br/>
+  <h1 align="center">Bem vindo!</h1>
+  <p> Eu me chamo Lucas Palhano e sou apaixonado por programação. Tenho como objetivo contribuir com a     construção de um futuro melhor, buscando solucionar problemas através da tecnologia de inovação. Atualmente estudando para me tornar um desenvolvedor Full-stack, apesar de também ter interesse em Mobile e Data Science.</p>
 </section>
 
-<br /><br /> -->
+<br /><br />
 
 <section id="stack">
   <img src="./images/stack.png" alt="Banner da seção Stack" width="100%" />
   <br/><br/>
-  <table align="center" height="255px">
+  <table align="center">
     <tr>
       <td align="center">
         <a href="https://pt-br.reactjs.org/">
