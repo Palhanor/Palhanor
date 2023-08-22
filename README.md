@@ -5,7 +5,6 @@
 
 <header width="100%">
   <img src="./images/header.png" alt="Imagem do Header" width="100%" />
-  <br /><br />
   <div align="center">
     <nav>
       <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
