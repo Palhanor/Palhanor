@@ -22,7 +22,8 @@
   <img src="./images/banner.png" alt="Banner estilo Matrix" width="100%"/>
 </main>
 
-<br /><br />
+<br />
+<br />
 
 <section id="sobre">
   <img src="./images/sobre.png" alt="Banner da seção Sobre" width="100%" />
@@ -37,7 +38,8 @@
     <p>Já desenvolvi projetos próprios, tanto web Fullstack quanto Mobile. Ainda, também tenho experiência como freelancer e voluntário na organização JDG (Junior Developers Group). Além disso estou trabalhando em parceria com uma equipe de trabalho social para o desenvolvimento de um Marketplace para um bairro de Recife.</p>
 </section>
 
-<br /><br />
+<br />
+<br />
 
 <section id="stack">
   <img src="./images/stack.png" alt="Banner da seção Stack" width="100%" />
@@ -287,7 +289,8 @@
   </table>
 </section>
 
-<br /><br />
+<br />
+<br />
 
 <section id="projetos">
   <img src="./images/projetos.png" alt="Banner da seção Projetos" width="100%" />
@@ -326,7 +329,8 @@
   </ul>
 </section>
 
-<br /><br />
+<br />
+<br />
 
 <section id="estatisticas">
   <img src="./images/estatisticas.png" alt="Banner da seção Estatísticas" width="100%" />
@@ -337,22 +341,53 @@
   </p>
 </section>
 
-<br><br />
+<br />
+<br />
 
 <section id="contatos">
   <img src="./images/contatos.png" alt="Banner da seção Contatos" width="100%" />
   <br/><br/>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/lucaspalhano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn"></a>
-    <a href="https://www.lucaspalhano.com.br/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Portfólio pessoal"></a>
-    <a href="https://medium.com/@lucaspalhanof" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Artigos no Medium"></a>
-    <a href="https://www.behance.net/lucaspalhano2" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Designs no Behance"></a>
-    <a href="mailto:lucaspalhanof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail de contato"></a>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/lucaspalhano/">
+          <img src="./images/Linkedin.png" width="65px" alt="React icon"/><br/>
+          <sub>
+            <strong>
+              <pre>LinkedIn</pre>
+            </strong>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:lucaspalhanof@gmail.com">
+          <img src="./images/Gmail.png" width="65px" alt="NextJS icon"/><br/>
+          <sub>
+            <strong>
+              <pre>Next.js</pre>
+            </strong>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://lucaspalhano.vercel.app/">
+          <img src="./images/Portfolio.png" width="65px" alt="Typescript icon"/><br/>
+          <sub>
+            <strong>
+              <pre>Typescript</pre>
+            </strong>
+          </sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </section>
 
-<br /><br />
+<br />
+<br />
+
 <hr />
+
 <br />
 
 <footer width="100%">
