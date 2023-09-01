@@ -364,7 +364,7 @@
           <img src="./images/Gmail.png" width="65px" alt="NextJS icon"/><br/>
           <sub>
             <strong>
-              <pre>Next.js</pre>
+              <pre>Gmail</pre>
             </strong>
           </sub>
         </a>
@@ -374,7 +374,7 @@
           <img src="./images/Portfolio.png" width="65px" alt="Typescript icon"/><br/>
           <sub>
             <strong>
-              <pre>Typescript</pre>
+              <pre>Portfólio</pre>
             </strong>
           </sub>
         </a>
